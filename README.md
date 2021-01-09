@@ -5,6 +5,7 @@ experience using ### Python(my most confident language), fortran. Now i am very 
 I am especially interested in computer vision  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoondohyeon&count_bg=%2379C83D&title_bg=%23555555&icon=googlekeep.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Follow](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdohyeonYoon&count_bg=%233D76C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=follow&edge_flat=false)](https://hits.seeyoufarm.com)
  ### :sunny: Career
 |           Type           |       Date      |                        Contents                       |                   Organization                  |
 |:------------------------:|:---------------:|:-----------------------------------------------------:|:-----------------------------------------------:|
