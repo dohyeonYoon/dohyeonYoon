@@ -6,7 +6,7 @@
 
 My major is Mechanical Engeneering System, and I have been studying computer science :computer: since 2020.
 I have project experience using Python(my most confident language), fortran. Now i am very interested in machine learning.
-I am especially interested in computer vision  
+I am especially interested in computer vision!
 
  ### :sunny: Career
 |           Type           |       Date      |                        Contents                       |                   Organization                  |
