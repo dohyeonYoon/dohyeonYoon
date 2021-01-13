@@ -13,7 +13,7 @@ I am especially interested in computer vision!
 |:------------------------:|:---------------:|:-----------------------------------------------------:|:-----------------------------------------------:|
 | :mortar_board: Education | 2016.3 ~ 2022.2 |      Department of Mechanical  Engineering System     |               Jeonbuk  University               |
 |    Research activities   | 2020.1 ~ 2022.2 |            Undergraduate Research Students            | Jeonbuk Univ. Computational Systems Design Lab  |
-| External activities      | 2020.2 ~9       | Motorcycle illegal U-turn  Detection Research Project | Jeonbuk Univ- cctv corporlation                 |
+| External activities      | 2020.2 ~9       | Motorcycle illegal U-turn  Detection Research Project | Jeonbuk Univ- RC corporlation                 |
 
 ### :cyclone: Languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) 
