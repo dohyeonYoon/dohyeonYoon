@@ -33,7 +33,6 @@ I am especially interested in computer vision!
 ![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white)
 
 
-### :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlsrks2383@gmail.com)](mailto:dlsrks2383@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yyyyydh_/)](https://www.instagram.com/yyyyydh_/)
+[![kairess's GitHub stats](https://github-readme-stats.vercel.app/api?username=kairess&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/kairess)
+
 
