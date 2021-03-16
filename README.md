@@ -28,8 +28,9 @@ I am especially interested in computer vision!
 | External activities      | 2021.2 ~ 2021.9 | Motorcycle illegal U-turn  Detection Research Project | Jeonbuk Univ- RC corporlation                   |
 
 
-### :cyclone: Languages
-![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) 
+## 🤐 Programming Languages
+
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 ![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white)
 
 
