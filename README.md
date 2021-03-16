@@ -31,7 +31,6 @@ I am especially interested in computer vision!
 ## 🤐 Programming Languages
 
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
-![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white)
 
 
 [![dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeonYoon&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/dohyeonYoon)
