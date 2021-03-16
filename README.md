@@ -8,6 +8,9 @@ My major is Mechanical Engeneering System, and I have been studying computer sci
 I have project experience using Python(my most confident language), fortran. Now i am very interested in machine learning.
 I am especially interested in computer vision!
 
+
+[![Gmail Badge](https://img.shields.io/badge/-dlsrks2383@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlsrks2383@gmail.com)](mailto:dlsrks2383@gmail.com)
+
  ### :sunny: Career
 |           Type           |       Date      |                        Contents                       |                   Organization                  |
 |:------------------------:|:---------------:|:-----------------------------------------------------:|:-----------------------------------------------:|
