@@ -13,10 +13,10 @@ I am especially interested in computer vision!
 
 ## 💻 Technologies I Love
 
-- Machine Learning
-- Deep Learning
-- Image Processing
-- Data Science
+- Object Detection
+- Object Tracking
+- Image Segmentation
+- Medical Image Segmentation
 
 
  ### :sunny: Career
