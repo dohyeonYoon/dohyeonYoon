@@ -15,7 +15,7 @@ I am especially interested in computer vision!
 
 - Object Detection
 - Object Tracking
-- 
+- OCR
 - Image Segmentation
 - Medical Image Segmentation
 
