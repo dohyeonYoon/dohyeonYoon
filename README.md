@@ -13,11 +13,9 @@ I am especially interested in computer vision!
 
 ## 💻 Technologies I Love
 
-- Object Detection
-- Object Tracking
-- OCR
+- Computer Vision
 - Image Segmentation
-- Medical Image Segmentation
+- MLops
 
 
  ### :sunny: Career
