@@ -13,7 +13,7 @@ I am especially interested in computer vision!
 
 ## 💻 Technologies I Love
 
-- Computer Vision
+- 3D Computer Vision
 - Image Segmentation
 - MLops
 
