@@ -2,20 +2,22 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoondohyeon&count_bg=%2379C83D&title_bg=%23555555&icon=googlekeep.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-### 👋 Hello My name is dohyeonYoon, I'm a future developer
+### 👋 Hello My name is dohyeonYoon, I'm Computer Vision AI Engineer.
 
-My major is Mechanical Engeneering System, and I have been studying computer science :computer: since 2020.
-I have project experience using Python(my most confident language), fortran. Now i am very interested in machine learning.
-I am especially interested in computer vision!
+Hello, I am Do-hyun Yoon, a Computer Vision AI Engineer.
+
+- As a researcher, I have experience in handling everything from research planning to actual prototype development in various domains (livestock, transportation, healthcare) to solve given problems.
+- As a team member, I feel that I grow faster when I share knowledge with others. I founded a university AI club and started a tech blog to share knowledge with my team. The blog now attracts about 200 daily visitors and has accumulated approximately 114,000 visits in total.
+- As a developer, I continuously strive for improvement by regularly participating in various study groups.
 
 [![Gmail Badge](https://img.shields.io/badge/-dlsrks2383@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlsrks2383@gmail.com)](mailto:dlsrks2383@gmail.com)
 
 
 ## 💻 Technologies I Love
 
+- Image Enhancement
 - 3D Computer Vision
 - Image Segmentation
-- MLops
 
 
  ### :sunny: Career
