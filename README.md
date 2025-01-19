@@ -7,7 +7,7 @@
 Hello, I am Do-hyun Yoon, a Computer Vision AI Engineer.
 
 - As a researcher, I have experience in handling everything from research planning to actual prototype development in various domains (livestock, transportation, healthcare) to solve given problems.
-- As a team member, I feel that I grow faster when I share knowledge with others. I founded a university AI club and started a tech blog to share knowledge with my team. The blog now attracts about 200 daily visitors and has accumulated approximately 114,000 visits in total.
+- As a team member, I feel that I grow faster when I share knowledge with others. I founded a university AI club and started a tech blog to share knowledge with my team. The blog now attracts about 200 daily visitors and has accumulated approximately 127,000 visits in total.
 - As a developer, I continuously strive for improvement by regularly participating in various study groups.
 
 [![Gmail Badge](https://img.shields.io/badge/-dlsrks2383@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlsrks2383@gmail.com)](mailto:dlsrks2383@gmail.com)
@@ -34,6 +34,6 @@ Hello, I am Do-hyun Yoon, a Computer Vision AI Engineer.
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 
 
-[![dohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeonYoon&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/dohyeonYoon)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeonYoon&show_icons=true&theme=dracula)
 
 
